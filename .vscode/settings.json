@@ -1,7 +1,7 @@
 {
-    "editor.fontSize": 20,
+    "editor.fontSize": 14,
     "editor.cursorBlinking": "solid",
-    "editor.fontFamily": "Cascadia Mono",
+    "editor.fontFamily": "Fira Code",
     "editor.suggest.showVariables": true,
     "editor.quickSuggestions": {
         "other": false,
@@ -33,5 +33,6 @@
     // Optional: Also disable Copilot for specific languages.
     "github.copilot.advanced": {
         "inlineSuggest.enableFor": {}
-    }
+    },
+    "editor.fontLigatures": true
 }

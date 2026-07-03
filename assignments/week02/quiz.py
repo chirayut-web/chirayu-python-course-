@@ -16,6 +16,8 @@ Below 18.5: Underweight
 25.0 - 29.9: Overweight
 30.0 and above: Obese
 
+
+
 """
 
 
@@ -26,8 +28,9 @@ Write a program that converts between Thai Baht (THB) and US Dollars (USD).
 Requirements:
 
 Ask user to choose conversion direction (THB to USD or USD to THB)
-Ask for the amount to convert
+            Ask for the 
 Use exchange rate: 1 USD = 35.5 THB
 Display result with 2 decimal places
 Show the calculation formula used
 """
+
