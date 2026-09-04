@@ -1,3 +1,4 @@
+#user profile
 def create_user_profile(username, age, premium = False):
 
     user_type = "standard_user"
