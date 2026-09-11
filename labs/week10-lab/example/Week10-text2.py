@@ -3,6 +3,7 @@ print("Welcome to Password Security Testing!")
 isdigit = False
 isalpha = False
 emoji = False
+
 password = input("Insert your password : ")
 
 for current_letter in password:
