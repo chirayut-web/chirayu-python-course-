@@ -26,7 +26,7 @@ class Circle:
 
     # Method to get the area
     def get_area(self):
-        return 22/7 * self.radius * self.radius
+        return 22/7 ** self.radius
         pass
 
     # Method to get the perimeter
