@@ -8,6 +8,7 @@ age = int(input("Enter age: "))
 # 60+: Senior
 
 # Your code here:
+<<<<<<< HEAD
 age = int(input("Enter age: "))
 
 if 0 <= age <= 12:
@@ -18,6 +19,9 @@ elif 20 <= age <= 59:
     print("You are Adult")
 else:
     print("You are Senior")
+=======
+
+>>>>>>> upstream/main
 
 
 # Complete this ATM simulation
