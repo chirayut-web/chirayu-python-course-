@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
     "editor.fontSize": 14,
     "editor.cursorBlinking": "solid",
     "editor.fontFamily": "Fira Code",
-=======
-    "editor.fontSize": 18,
-    "editor.cursorBlinking": "solid",
-    "editor.fontFamily": "Cascadia Mono",
->>>>>>> upstream/main
     "editor.suggest.showVariables": true,
     "editor.quickSuggestions": {
         "other": false,
@@ -22,7 +16,6 @@
         "markdown": false,
         "scminput": false
     },
-<<<<<<< HEAD
     // Prevents inline suggestions from appearing.
     "editor.inlineSuggest.enabled": false,
     // Disables the parameter hints that pop up when you type a function signature.
@@ -42,12 +35,4 @@
         "inlineSuggest.enableFor": {}
     },
     "editor.fontLigatures": true
-=======
-    "editor.inlineSuggest.enabled": false,
-    "editor.parameterHints.enabled": false,
-    "editor.wordBasedSuggestions": "off",
-    "editor.suggestOnTriggerCharacters": false,
-    "editor.suggest.showWords": false,
-    "editor.hover.enabled": "off",
->>>>>>> upstream/main
 }
